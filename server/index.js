@@ -24,11 +24,4 @@ app.use('/api/auth', authRoutes);
 
 app.listen(PORT, () => {
     console.log(`Server running at port http://localhost:${PORT}`)
-});// Auto update on 2024-06-15 - 16770 
-// Auto update on 2024-04-05 - 16770 
-// Auto update on 2024-07-08 - 16770 
-// Auto update on 2024-06-13 - 16770 
-// Auto update on 2025-02-02 - 16770 
-// Auto update on 2024-09-21 - 16770 
-// Auto update on 2024-09-30 - 12420 
-// Auto update on 2024-08-21 - 12420 
+});
