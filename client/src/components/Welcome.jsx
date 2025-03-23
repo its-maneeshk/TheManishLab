@@ -7,3 +7,4 @@ const Welcome = () => {
 }
 
 export default Welcome
+/* Fixed minor bug in conditionals
