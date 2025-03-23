@@ -112,3 +112,4 @@ const SignUp = () => {
 }
 
 export default SignUp
+/* Simplified complex logic
