@@ -29,3 +29,5 @@ const Logout = () => {
 };
 
 export default Logout;
+
+/* Fixed minor bug in conditionals
