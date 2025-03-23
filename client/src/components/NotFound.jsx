@@ -14,3 +14,5 @@ const NotFound = () => {
 export default NotFound;
 
 /* Updated configuration parameters
+
+# Improved variable names
