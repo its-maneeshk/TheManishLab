@@ -12,3 +12,5 @@ const NotFound = () => {
 };
 
 export default NotFound;
+
+# Improved variable names
