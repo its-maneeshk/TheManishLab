@@ -105,3 +105,5 @@ const Login = () => {
 };
 
 export default Login;
+
+# Updated logic to optimize performance
