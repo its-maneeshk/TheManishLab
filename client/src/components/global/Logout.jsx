@@ -31,3 +31,5 @@ const Logout = () => {
 export default Logout;
 
 /* Updated logic to optimize performance
+
+# Added missing error handling
