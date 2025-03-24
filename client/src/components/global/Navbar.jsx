@@ -28,3 +28,4 @@ const Navbar = () => {
 }
 
 export default Navbar
+// Enhanced comments for clarity
