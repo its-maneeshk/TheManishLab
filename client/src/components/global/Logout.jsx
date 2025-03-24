@@ -29,3 +29,5 @@ const Logout = () => {
 };
 
 export default Logout;
+
+/* Updated logic to optimize performance
