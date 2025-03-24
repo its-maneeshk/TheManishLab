@@ -20,3 +20,5 @@ export default NotFound;
 // Improved variable names
 
 /* Fixed minor bug in conditionals
+
+// Refactored for better readability
