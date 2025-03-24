@@ -8,3 +8,5 @@ const Welcome = () => {
 
 export default Welcome
 /* Fixed minor bug in conditionals
+
+/* Fixed indentation issue
