@@ -12,3 +12,5 @@ const User = mongoose.model('User', userSchema);
 module.exports = User;
 
 // Fixed indentation issue
+
+// Simplified complex logic
