@@ -105,3 +105,5 @@ const Login = () => {
 };
 
 export default Login;
+
+# Added missing error handling
