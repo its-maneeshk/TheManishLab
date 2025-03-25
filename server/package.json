@@ -22,3 +22,5 @@
 }
 
 /* Fixed minor bug in conditionals
+
+# Added missing error handling
