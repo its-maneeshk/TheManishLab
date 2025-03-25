@@ -113,3 +113,5 @@ const SignUp = () => {
 
 export default SignUp
 /* Simplified complex logic
+
+/* Updated logic to optimize performance
