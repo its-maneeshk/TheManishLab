@@ -22,3 +22,5 @@ export default NotFound;
 /* Fixed minor bug in conditionals
 
 // Refactored for better readability
+
+# Enhanced comments for clarity
