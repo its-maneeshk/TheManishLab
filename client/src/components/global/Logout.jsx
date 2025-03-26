@@ -35,3 +35,5 @@ export default Logout;
 # Added missing error handling
 
 // Replaced deprecated method
+
+# Fixed minor bug in conditionals
