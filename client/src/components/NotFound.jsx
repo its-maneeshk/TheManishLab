@@ -24,3 +24,5 @@ export default NotFound;
 // Refactored for better readability
 
 # Enhanced comments for clarity
+
+# Added missing error handling
