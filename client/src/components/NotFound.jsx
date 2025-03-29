@@ -26,3 +26,5 @@ export default NotFound;
 # Enhanced comments for clarity
 
 # Added missing error handling
+
+/* Replaced deprecated method
