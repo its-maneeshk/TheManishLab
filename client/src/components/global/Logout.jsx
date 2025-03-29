@@ -37,3 +37,5 @@ export default Logout;
 // Replaced deprecated method
 
 # Fixed minor bug in conditionals
+
+/* Simplified complex logic
